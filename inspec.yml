@@ -1,0 +1,8 @@
+name: win7_basline
+title: Win7 Hardening InSpec Profile
+maintainer: Todd Pigram
+copyright: Todd Pigram
+copyright_email: todd@toddpigram.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile
+version: 0.1.0
